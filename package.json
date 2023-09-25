@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://VitalyGotsmanuk.github.io/goit-js-hw-11",
+  "homepage": "https://VitalyGotsmanuk.github.io/my-js-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
+    "build": "parcel build src/*.html --public-url /my-js-project/"
   },
   "repository": {
     "type": "git",
